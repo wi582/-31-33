@@ -1,0 +1,20 @@
+{
+  "name": "31-33",
+  "version": "1.0.0",
+  "description": "",
+  "author": "KaiAngellll",
+  "type": "module",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+    
+  },
+  "keywords": [],
+  "author": "KaiAngellll",
+  "license": "ISC",
+  "type": "module"
+}
